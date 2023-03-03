@@ -21,4 +21,4 @@ for continuous functionality was a cool feature I had fun implementing. Overall 
 and sharpen my skillset for development. 
 
 ### Author
-* __Charles Lutz__ - *Full-Stack Software Developer* - [Personal Website](https://master--resplendent-cocada-4ee40d.netlify.app/) | [LinkedIn](www.linkedin.com/in/CharlesCarMichaelLutz)
+* __Charles Lutz__ - *Full-Stack Software Developer* - [Personal Website](https://master--resplendent-cocada-4ee40d.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/CharlesCarMichaelLutz/)
