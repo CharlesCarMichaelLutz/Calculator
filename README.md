@@ -4,7 +4,7 @@
 A calculator that performs simple and continuous arithmetic problems written fully in vanilla JavaScript, HTML, and CSS.
 
 
-#### check it out [here](https://charles-carm.github.io/Calculator/)
+#### check it out [here](https://charlescarmichaellutz.github.io/Calculator/)
 ---
 ![calculator app](https://user-images.githubusercontent.com/103493003/170819841-ddf74b42-3c22-4b4a-9688-135254d48548.PNG)
 
